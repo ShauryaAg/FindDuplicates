@@ -15,7 +15,7 @@ if __name__ == "__main__":
         "last_name": "Doe",
         "class_year": 1,
         "date_of_birth": "2020-01-01",
-        "email_field": "johndoe@gmail.com"
+        "email_field": "johndoe+asd@gmail.com"
     }
 
     fields = ["first_name", "last_name",
